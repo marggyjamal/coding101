@@ -1,0 +1,58 @@
+body {
+  text-align: center;
+}
+
+p {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.heading-1 {
+  font-family: 'Century Schoolbook';
+  font-size: 30px;
+  text-align: center;
+  color:#000000;
+}
+
+.img-container {
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+  background-color: #ffffe6;
+}
+
+.heading-2 {
+  margin-top: 50px;
+}
+
+.p-1 {
+/* color: navy; */
+text-align: center;
+font-family: 'Hack';
+font-size: 15px;
+text-transform: uppercase;
+}
+
+.heading-3 {
+  margin-top: 50px;
+}
+
+.column {
+  background-color: #ffffcc;
+  margin: 5px;
+  padding: 10px;
+}
+
+a {
+  margin: 15px 10px 15px 10px;
+}
+a:hover {
+  color: #000;
+}
+.p-2 {
+  margin: 5px 5px 5px 5px;
+}
+footer{
+  align: center;
+  text-align: right;
+  padding: 3px;
+}
